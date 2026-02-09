@@ -28,8 +28,8 @@ Atualmente evoluindo para me tornar **Desenvolvedor Full Stack**, aprofundando b
 # 📊 Performance (GitHub Stats)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
