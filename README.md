@@ -1,59 +1,77 @@
 <h1 align="center">Gabriel Brandão Costa</h1>
 
 <p align="center">
-💻 Full Stack Developer in Progress • 🌐 JavaScript • ⚡ TypeScript • 🅰️ Angular • 🐍 Python • 🔗 REST APIs • 🛠 Git
+  Full Stack Developer in Progress
+</p>
+
+<p align="center">
+  <a href="https://portidpessoal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/gabrielbcostadev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Fullstack-111?style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧑‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (2023–2026)**  
-Formado pelo programa **Ford Enter </> (SENAI/CIMATEC – 300h)** com foco em desenvolvimento front-end.
+I am a Systems Analysis and Development student (2023–2026),  
+graduated from the **Ford Enter (SENAI/CIMATEC – 300h)** program.
 
-Possuo experiência sólida em **JavaScript, TypeScript e Angular**, construção de interfaces web, consumo de **APIs REST**, organização de aplicações e versionamento com **Git**.
+Strong foundation in:
 
-Atualmente evoluindo para me tornar **Desenvolvedor Full Stack**, aprofundando backend, integrações e arquitetura de sistemas.
+- JavaScript & TypeScript  
+- Angular  
+- REST API integration  
+- Application structure & clean code  
+- Git & version control  
+
+Currently evolving toward a **Full Stack Developer** role, focusing on backend architecture and scalable systems.
 
 ---
 
-# 🚀 Skills & Technologies
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,python,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,python,html,css,git,github" />
 </p>
 
 ---
 
-# 📊 Performance (GitHub Stats)
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=dubuguidev&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
+## 🗄️ Databases
+
+| Technology | Level |
+|------------|--------|
+| SQL | Intermediate |
+| Data Modeling | Intermediate |
+| Query Structuring | Intermediate |
 
 ---
 
-# 🗄️ Databases
+## 📂 Highlight Projects
 
-| Tecnologia | Tipo | Nível |
-|------------|------|-------|
-| SQL | Banco de Dados | Intermediário |
-| Modelagem de Dados | Estrutura | Intermediário |
-| Manipulação de Dados | Queries | Intermediário |
+### 🔹 EndGame
+Game progress tracking system with future expansion into community forum features.
 
----
+### 🔹 El Camiño
+Inventory management system with planned raw-material to product integration.
 
-# 🌎 Contato
-
-📧 gabrielbrandaoemp@gmail.com  
-🔗 https://linkedin.com/in/gabrielbcostadev  
-🌐 https://portidpessoal.vercel.app
+### 🔹 Cyberpunk Calculator
+Smart web calculator capable of parsing complex mathematical expressions.
 
 ---
 
 <p align="center">
-🚀 Em constante evolução rumo ao Full Stack.
+  Building. Improving. Scaling.
 </p>
