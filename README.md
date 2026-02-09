@@ -34,34 +34,21 @@ Atualmente evoluindo para me tornar **Desenvolvedor Full Stack**, aprofundando b
 
 ---
 
-# 🗄️ Databases já trabalhados
+# 🗄️ Databases
 
-| Tecnologia | Tipoção | Nível |
-|------------|--------|--------|
+| Tecnologia | Tipo | Nível |
+|------------|------|-------|
 | SQL | Banco de Dados | Intermediário |
-| Modelagem de Dados | Estruturação | Intermediário |
-| Manipulação de Dados | Queries & Organização | Intermediário |
-
----
-
-# 📂 Projetos
-
-### 🔹 EndGame (Em desenvolvimento)
-Sistema para registrar progresso em jogos e contabilizar tempo jogado, com futura expansão para fórum interativo.
-
-### 🔹 El Camiño (Em desenvolvimento)
-Sistema de organização de estoque com futura integração entre matéria-prima e produto final.
-
-### 🔹 Calculadora Cyberpunk
-Calculadora web capaz de interpretar expressões matemáticas complexas respeitando a ordem das operações.
+| Modelagem de Dados | Estrutura | Intermediário |
+| Manipulação de Dados | Queries | Intermediário |
 
 ---
 
 # 🌎 Contato
 
 📧 gabrielbrandaoemp@gmail.com  
-🔗 linkedin.com/in/gabrielbcostadev  
-🌐 portidpessoal.vercel.app
+🔗 https://linkedin.com/in/gabrielbcostadev  
+🌐 https://portidpessoal.vercel.app
 
 ---
 
