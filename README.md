@@ -19,7 +19,7 @@
 ## 👨‍💻 About Me
 
 I am a Systems Analysis and Development student (2023–2026),  
-graduated from the **Ford Enter (SENAI/CIMATEC – 300h)** program.
+graduated in Frontend Development from the **Ford Enter (SENAI/CIMATEC – 300h)** program.
 
 Strong foundation in:
 
