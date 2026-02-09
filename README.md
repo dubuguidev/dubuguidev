@@ -1,92 +1,70 @@
 <h1 align="center">Gabriel Brandão Costa</h1>
 
 <p align="center">
-  💻 Full Stack Developer in Progress | 🎓 Análise e Desenvolvimento de Sistemas  
+💻 Full Stack Developer in Progress • 🌐 JavaScript • ⚡ TypeScript • 🅰️ Angular • 🐍 Python • 🔗 REST APIs • 🛠 Git
 </p>
+
+---
+
+# 🧑‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (2023–2026)**  
+Formado pelo programa **Ford Enter </> (SENAI/CIMATEC – 300h)** com foco em desenvolvimento front-end.
+
+Possuo experiência sólida em **JavaScript, TypeScript e Angular**, construção de interfaces web, consumo de **APIs REST**, organização de aplicações e versionamento com **Git**.
+
+Atualmente evoluindo para me tornar **Desenvolvedor Full Stack**, aprofundando backend, integrações e arquitetura de sistemas.
+
+---
+
+# 🚀 Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" />
-  <img src="https://img.shields.io/badge/TypeScript-Intermediate-blue" />
-  <img src="https://img.shields.io/badge/Angular-Frontend-red" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-green" />
-  <img src="https://img.shields.io/badge/Git-Versioning-orange" />
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,python,git,github,html,css" />
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 📊 Performance (GitHub Stats)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (2023–2026)** e formado pelo programa **Ford Enter </> (SENAI/CIMATEC – 300h)** com foco em desenvolvimento front-end.
-
-Tenho base sólida em lógica de programação, construção de interfaces web, consumo de APIs REST e organização de aplicações utilizando boas práticas de versionamento e metodologias ágeis.
-
-Atualmente estou evoluindo meus conhecimentos para atuar como **Desenvolvedor Full Stack**, aprofundando backend, integrações e arquitetura de sistemas.
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Front-end
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- Angular
-
-### ⚙️ Back-end
-- Python
-- Consumo e integração com APIs REST
-- Estruturação de lógica de negócio
-
-### 🗄️ Banco de Dados
-- Conceitos de SQL
-- Estruturação e manipulação de dados
-
-### 🔧 Ferramentas
-- Git & GitHub
-- Versionamento de código
-- Metodologias Ágeis
-- LGPD (conceitos aplicados)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📚 Formação
+# 🗄️ Databases já trabalhados
 
-🎓 **Análise e Desenvolvimento de Sistemas**  
-Uniruy Wyden (2023 - 2026)
-
-🎓 **Ford Enter </> - SENAI/CIMATEC & Ford Philanthropy**  
-300h - Desenvolvimento Front-End
-
-📜 Certificações:
-- Python (120h)
-- JavaScript (200h)
-- HTML & CSS (100h)
-- Algoritmos (40h)
+| Tecnologia | Tipoção | Nível |
+|------------|--------|--------|
+| SQL | Banco de Dados | Intermediário |
+| Modelagem de Dados | Estruturação | Intermediário |
+| Manipulação de Dados | Queries & Organização | Intermediário |
 
 ---
 
-## 📂 Projetos em Destaque
+# 📂 Projetos
 
 ### 🔹 EndGame (Em desenvolvimento)
-Sistema para registrar progresso em jogos, contabilizar tempo jogado e futuramente evoluir para um fórum interativo entre jogadores.
+Sistema para registrar progresso em jogos e contabilizar tempo jogado, com futura expansão para fórum interativo.
 
 ### 🔹 El Camiño (Em desenvolvimento)
-Sistema de organização de estoque com possibilidade futura de exportação de arquivos e integração entre matéria-prima e produto final.
+Sistema de organização de estoque com futura integração entre matéria-prima e produto final.
 
 ### 🔹 Calculadora Cyberpunk
 Calculadora web capaz de interpretar expressões matemáticas complexas respeitando a ordem das operações.
 
 ---
 
-## 🌎 Contato
+# 🌎 Contato
 
-📧 Email: gabrielbrandaoemp@gmail.com  
-🔗 LinkedIn: linkedin.com/in/gabrielbcostadev  
-🌐 Portfólio: https://portidpessoal.vercel.app/
+📧 gabrielbrandaoemp@gmail.com  
+🔗 linkedin.com/in/gabrielbcostadev  
+🌐 portidpessoal.vercel.app
 
 ---
 
 <p align="center">
-  🚀 Em constante evolução para me tornar um Desenvolvedor Full Stack.
+🚀 Em constante evolução rumo ao Full Stack.
 </p>
