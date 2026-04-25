@@ -36,11 +36,11 @@ Currently evolving toward a Full Stack Developer role, focusing on backend archi
 
 ## 📊 GitHub Activity
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dubuguidev&theme=radical)
 
 ---
 
