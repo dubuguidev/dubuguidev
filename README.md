@@ -1,25 +1,11 @@
-<h1 align="center">Gabriel Brandão Costa</h1>
-
-<p align="center">
-  Full Stack Developer in Progress
-</p>
-
-<p align="center">
-  <a href="https://portidpessoal.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/gabrielbcostadev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Fullstack-111?style=for-the-badge"/>
-</p>
+# Gabriel Brandão Costa
+### Full Stack Developer in Progress 🚀
 
 ---
 
 ## 👨‍💻 About Me
-
 I am a Systems Analysis and Development student (2023–2026),  
-graduated in Frontend Development from the **Ford Enter (SENAI/CIMATEC – 300h)** program.
+graduated in Frontend Development from the Ford Enter (SENAI/CIMATEC – 300h) program.
 
 Strong foundation in:
 
@@ -29,30 +15,39 @@ Strong foundation in:
 - Application structure & clean code  
 - Git & version control  
 
-Currently evolving toward a **Full Stack Developer** role, focusing on backend architecture and scalable systems.
+Currently evolving toward a Full Stack Developer role, focusing on backend architecture and scalable systems.
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,angular,python,html,css,git,github" />
-</p>
+### 💻 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### ⚙️ Backend (Learning)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dubuguidev&theme=tokyonight&hide_border=true"/>
-</p>
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=radical)
 
 ---
 
 ## 🗄️ Databases
 
 | Technology | Level |
-|------------|--------|
+|----------|--------|
 | SQL | Intermediate |
 | Data Modeling | Intermediate |
 | Query Structuring | Intermediate |
@@ -72,6 +67,6 @@ Smart web calculator capable of parsing complex mathematical expressions.
 
 ---
 
-<p align="center">
-  Building. Improving. Scaling.
-</p>
+## 💡 Philosophy
+
+> Building. Improving. Scaling.
