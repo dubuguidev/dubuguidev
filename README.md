@@ -1,57 +1,57 @@
-# Gabriel Brandão Costa
+# ⚡ Gabriel Brandão Costa
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+Progress;JavaScript+%7C+TypeScript+%7C+Angular;Building.+Improving.+Scaling." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+Progress;Angular+%7C+TypeScript+%7C+Node.js;Building+Scalable+Systems;Clean+Code+%7C+Architecture+Focused" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dubuguidev&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-🎓 Systems Analysis and Development student (2023–2026)  
-🚀 Frontend Development graduate — Ford Enter (SENAI/CIMATEC – 300h)
+* 🎓 Systems Analysis and Development (2023–2026)
+* 🚀 Frontend Development — SENAI/CIMATEC (Ford Enter)
 
-💡 Strong foundation in:
+💡 Strong in:
 
-- JavaScript & TypeScript  
-- Angular  
-- REST API integration  
-- Clean code & architecture  
-- Git & version control  
+* JavaScript / TypeScript
+* Angular
+* REST APIs
+* Clean Code
 
-📈 Currently evolving toward **Full Stack**, focusing on backend and scalable systems.
+📈 Currently focused on:
+
+* Backend development
+* Scalable systems
+* Full Stack evolution
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,postgres,git" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,postgres,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Metrics & Activity
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=tokyonight" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=dubuguidev&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=dubuguidev&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dubuguidev&theme=tokyo-night" />
@@ -59,39 +59,43 @@
 
 ---
 
-## 👁️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dubuguidev&color=blue" />
-</p>
-
----
-
-## 📂 Highlight Projects
+## 🚀 Highlight Projects
 
 ### 🎮 EndGame
-Game progress tracking system with future expansion into community forum.
+
+* Game progress tracking system
+* Future: community features
 
 ### 📦 El Camiño
-Inventory system with raw-material → product integration.
+
+* Inventory management system
+* Raw-material → product pipeline
 
 ### 🧠 Cyberpunk Calculator
-Smart calculator capable of parsing complex expressions.
+
+* Expression parser
+* Complex math operations
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Data Layer
 
-| Technology | Level |
-|----------|--------|
-| SQL | Intermediate |
-| Data Modeling | Intermediate |
-| Query Structuring | Intermediate |
+| Skill             | Level |
+| ----------------- | ----- |
+| SQL               | ⚡⚡⚡⚡⚪ |
+| Data Modeling     | ⚡⚡⚡⚡⚪ |
+| Query Structuring | ⚡⚡⚡⚡⚪ |
+
+---
+
+## 🧩 Current Path
+
+Frontend → Backend → Architecture → Scalable Systems → Full Stack Engineer
 
 ---
 
 ## 💡 Philosophy
 
 <p align="center">
-  <b>Building. Improving. Scaling.</b>
+  <b>Building systems that scale. Not just code that works.</b>
 </p>
