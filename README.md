@@ -1,46 +1,82 @@
 # Gabriel Brandão Costa
-### Full Stack Developer in Progress 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+in+Progress;JavaScript+%7C+TypeScript+%7C+Angular;Building.+Improving.+Scaling." />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
-I am a Systems Analysis and Development student (2023–2026),  
-graduated in Frontend Development from the Ford Enter (SENAI/CIMATEC – 300h) program.
 
-Strong foundation in:
+🎓 Systems Analysis and Development student (2023–2026)  
+🚀 Frontend Development graduate — Ford Enter (SENAI/CIMATEC – 300h)
+
+💡 Strong foundation in:
 
 - JavaScript & TypeScript  
 - Angular  
 - REST API integration  
-- Application structure & clean code  
+- Clean code & architecture  
 - Git & version control  
 
-Currently evolving toward a Full Stack Developer role, focusing on backend architecture and scalable systems.
+📈 Currently evolving toward **Full Stack**, focusing on backend and scalable systems.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p align="center">
 
-### ⚙️ Backend (Learning)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,postgres,git" />
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dubuguidev&show_icons=true&theme=tokyonight" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dubuguidev&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubuguidev&layout=compact&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dubuguidev&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dubuguidev&theme=tokyo-night" />
+</p>
+
+---
+
+## 👁️ Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dubuguidev&color=blue" />
+</p>
+
+---
+
+## 📂 Highlight Projects
+
+### 🎮 EndGame
+Game progress tracking system with future expansion into community forum.
+
+### 📦 El Camiño
+Inventory system with raw-material → product integration.
+
+### 🧠 Cyberpunk Calculator
+Smart calculator capable of parsing complex expressions.
 
 ---
 
@@ -54,19 +90,8 @@ Currently evolving toward a Full Stack Developer role, focusing on backend archi
 
 ---
 
-## 📂 Highlight Projects
-
-### 🔹 EndGame
-Game progress tracking system with future expansion into community forum features.
-
-### 🔹 El Camiño
-Inventory management system with planned raw-material to product integration.
-
-### 🔹 Cyberpunk Calculator
-Smart web calculator capable of parsing complex mathematical expressions.
-
----
-
 ## 💡 Philosophy
 
-> Building. Improving. Scaling.
+<p align="center">
+  <b>Building. Improving. Scaling.</b>
+</p>
