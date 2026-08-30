@@ -5,7 +5,7 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-verticedev.vercel.app-EFAD12?style=flat-square&labelColor=17181C)](https://verticedev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EFAD12?style=flat-square&logo=linkedin&logoColor=EFAD12&labelColor=17181C)](https://linkedin.com/in/gabrielbcosyadev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EFAD12?style=flat-square&logo=linkedin&logoColor=EFAD12&labelColor=17181C)](https://linkedin.com/in/gabrielbcostadev)
 [![Email](https://img.shields.io/badge/Email-Contact-EFAD12?style=flat-square&logo=gmail&logoColor=EFAD12&labelColor=17181C)](mailto:gabrielbcostadev@gmail.com)
 
 </div>
