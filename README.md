@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=EFAD12&center=true&vCenter=true&width=680&height=45&lines=Gabriel+Brand%C3%A3o+Costa;Full-Stack+Developer+%C2%B7+Salvador%2C+BA;Angular+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+NestJS;Founder+of+V%C3%A9rtice+Studio" alt="Gabriel Brandão Costa" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-verticedev.vercel.app-EFAD12?style=flat-square&labelColor=17181C)](https://verticedev.vercel.app)
+[![Portfolio Empresarial](https://img.shields.io/badge/Portfolio-verticedev.vercel.app-EFAD12?style=flat-square&labelColor=17181C)](https://verticedev.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-EFAD12?style=flat-square&logo=linkedin&logoColor=EFAD12&labelColor=17181C)](https://linkedin.com/in/gabrielbcostadev)
 [![Email](https://img.shields.io/badge/Email-Contact-EFAD12?style=flat-square&logo=gmail&logoColor=EFAD12&labelColor=17181C)](mailto:gabrielbcostadev@gmail.com)
 
